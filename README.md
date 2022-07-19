@@ -91,16 +91,7 @@
 </div>  
   
 
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/emmanuelapp" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+<br/> 
 
 ---
 ![Metrics](/profile/metrics.svg)
