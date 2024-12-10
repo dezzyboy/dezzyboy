@@ -9,7 +9,7 @@
 - ⚒️ I’m currently building [zaria Ai](https://dezzyboy.com)  
   
 
-- ⚖️ I’m big advocate for Decentralization and Open Source Software.  
+- ⚖️ I’m a big advocate for Decentralization and Open Source Software.  
   
 
 - 🌍 Inclusion is important to me ,so governance is an area I'm continuously working on Improving in the Blockchain Space.  
