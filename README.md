@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dezzyboy , a full-time full-stack developer 🧑🏿‍💻 . Welcome to my Web3 World</div>  
   
 
-- ⚒️ I’m currently building [zaria Ai](https://dezzyboy.com)  
+- ⚒️ I’m currently building [Glibx Nodes ](https://glibxnodes.com) , [zaria Ai](https://dezzyboy.com) , [DeltaVault ](https://deltavault.xyz), [STBL Nexus ](https://stblnexus.xyz)
   
 
 - ⚖️ I’m a big advocate for Decentralization and Open Source Software.  
