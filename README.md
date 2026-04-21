@@ -20,17 +20,16 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dezzyboy&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dezzyboy&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>   -->
 
 
-## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
+<!-- <br/>  
 
   
 
@@ -41,7 +40,7 @@
 </div>  
   
 
-<br/> 
+<br/>  -->
 
 ---
 ![Metrics](/profile/metrics.svg)
